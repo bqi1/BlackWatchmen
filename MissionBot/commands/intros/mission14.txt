@@ -1,0 +1,11 @@
+Mission 14: Decrypting passages
+
+We have received an encrypted message from an agent. He was to relay us a codeword.
+
+This encryption uses the Vigenere Cipher.
+
+A useful tool is https://www.dcode.fr/vigenere-cipher
+
+The Archive file is OMEG101.
+
+When you have the solution, send us the message. We'll be relaxing.

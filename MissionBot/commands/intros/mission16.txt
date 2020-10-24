@@ -1,0 +1,13 @@
+Mission 16: Unlimited Supply
+
+A research facility linked to the Rosenberg clinic, named SuperTerram Life Sciences, is found to be dealing in human experimentation.
+
+Specifically, we noticed an unusually high amount of bodies being supplied to them from an unknown source.
+
+Our network intrusion team has retrieved 4 internal files from their network. Inspect them.
+
+Find the source of the bodies.
+
+The Archive file for the documents are MDIW001 to MDIW004
+
+When you have the solution, send us the message. We'll be waiting.

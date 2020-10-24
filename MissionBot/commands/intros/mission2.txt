@@ -1,0 +1,19 @@
+Mission 2: Words speak louder than actions
+
+We had sent 2 agents, Agent 33 and Agent 45, out as scouts to gather intel on a criminal organization, specifically on a major bank scandal.
+
+They were to report back anything of interest.
+
+Unfortunately, it was reported from Agent 45 that Agent 33 had been caught and killed by the organization.
+
+Agent 45 had since then been relaying information for months to us when we received an unauthorized audio file from an unknown sender.
+
+This was highly unusual since our network has an extremely difficult encryption to bypass.
+
+Go to the Archives and request file LDOW925 to find the audio message that had been sent.
+
+A useful decrypting tool would be https://www.asciitohex.com/
+
+To help in understanding your kit, we recommend you look at the approved document as file HELP023 in the Archives.
+
+When you have the solution, send us the message. We'll be watching.

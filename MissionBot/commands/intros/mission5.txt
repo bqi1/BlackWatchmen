@@ -1,0 +1,15 @@
+Mission 5: Expanding your toolset
+
+This mission focuses on understanding how your deciphering kit works, further than just plugging in letters and hoping for the best.
+
+We intercepted a sequence of letters, in order, from an enemy spy.
+
+We would like you to decipher the message the spy was attempting to convey.
+
+The Archive files are IEN001, IEN002, IEN003, IEN004, IEN005, IEN006, and IEN007. 
+
+For each image, the title is at the top, and the bottom is the body of the letter.
+
+The message contains no spaces.
+
+When you have the solution, send us the message. We'll be expecting.

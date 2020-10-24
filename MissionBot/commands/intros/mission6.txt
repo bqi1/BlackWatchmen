@@ -1,0 +1,20 @@
+Mission 6: An attempted breach
+
+Our agents had been gathering incriminating evidence on an expert decrypter for illegal transactions up to the millions in CAD.
+
+We had been storing them in our secure Archive file network.
+
+A few days ago, the hacker attempted to delete all Archive files. We were forced in the dark for about 45 minutes until we could successfully block him out.
+
+We believe that no files were tampered, and will proceed normally in our investigation.
+
+We entrust the task of finding out his address to you. Once we have it, we can connect many more dots and convict him in court.
+
+The Archive files detailing on his whereabouts are located at c2Fu001, ZHdp002, and Y2g=003.
+
+Reminder: Archives are structured as <archive code><sequence number>
+
+The format should be <street name> St & <road name> Rd. There should be no numbers.
+
+When you have the solution, send us the message. We'll be observant.
+

@@ -1,0 +1,13 @@
+Mission 9: Infiltration
+
+We intercepted an ID from an underground customer who has had a history purchasing products from Morpho Medical.
+
+We would like you to impersonate the customer with his ID and prove that Morpho Medical is the supplier for heavy water.
+
+We recommend you visit their official site.
+
+The task is to give us the shipment ID number.
+
+The customer ID number is 40FH32.
+
+When you have the solution, send us the message. We'll be observing.

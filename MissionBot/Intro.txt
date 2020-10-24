@@ -1,0 +1,32 @@
+Welcome, recruit. In short, this is an organization specializing in cryptography and steganography.
+
+Due to the covert nature of our organization, communication between HQ and our agents involves hiding messages in plain sight.
+
+There are several challenges that you, a skilled individual, should be able to be complete.
+
+Most of these puzzles should be fairly simple to complete, and may expand to using the internet. Analyze every minute detail.
+
+There may be information unnecessary to the mission.
+
+Best of luck fam.
+
+A suggested tool is https://www.asciitohex.com/ to help with decryption. Try using it at any chance you get.
+
+Every mission gives you the necessary intel to complete, and you must submit your answer here to verify if it's correct.
+
+To access a mission, simply type !mission<#> start
+
+To submit your solution for a mission, type !mission<#> <your solution>
+
+For example, type !mission1 start.
+
+You will alternate between DMing us and the Archives bot in the same server. The Archives bot contains all the data needed for specific missions.
+
+Warning: If you find yourself looking at visually disturbing stuff, chances are you're on the wrong site.
+
+Currently, there are 19 missions. Difficulty varies slightly per mission.
+
+
+
+
+ 

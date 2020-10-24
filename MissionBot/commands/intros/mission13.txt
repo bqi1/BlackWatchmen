@@ -1,0 +1,9 @@
+Mission 13: Ctrl-Z
+
+Surveillance team uncovered a shredded document from the clinic. Obtain experiment ID.
+
+The ID follows the format XXXX-XXXXX-XXXX
+
+The Archive file is CKEE39
+
+When you have the solution, send us the message. We'll be chilling.

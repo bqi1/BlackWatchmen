@@ -1,0 +1,9 @@
+Mission 12: Connecting the dots
+
+There are 3 scientists in the institute, Rosenberg Clinic, that have been suspected of human experimentation.
+
+Given their background checks, we would like you to single out a connection that any of them might have that connects to human experimentation.
+
+The Archive files are BBNI001, BBNI002, and BBNI003.
+
+When you have the solution, send us the message. We'll be expecting.

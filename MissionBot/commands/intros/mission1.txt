@@ -1,0 +1,15 @@
+Mission 1: A hidden message
+
+We had sent an agent on a mission to investigate a target of interest in Los Angeles.
+
+He was provided with a falsified name, passport, and remained in covert for approximately 3 days.
+
+We received a postcard under his alias detailing his status, and think it would be a fairly simple challenge for you to start decrypting with.
+
+Go to the Archives and request file GXUA176 to find the message they wished to convey to us.
+
+To retrieve an existing file from the archives, type !retrieve <filename>.
+
+In this case, it would be !retrieve GXUA176
+
+When you have the solution, send us the message. We'll be waiting.
