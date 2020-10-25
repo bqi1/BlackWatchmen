@@ -12,4 +12,6 @@ For each image, the title is at the top, and the bottom is the body of the lette
 
 The message contains no spaces.
 
+To help in understanding your kit, we recommend you look at the approved document as file HELP023 in the Archives.
+
 When you have the solution, send us the message. We'll be expecting.
