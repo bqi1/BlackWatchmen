@@ -2,7 +2,7 @@ Mission 14: Decrypting passages
 
 We have received an encrypted message from an agent. He was to relay us a codeword.
 
-This encryption uses the Vigenere Cipher.
+This encryption uses the Vigenere Cipher. To decrypt the message, you need a keyphrase. The keyphrase has to make sense rather than a bunch of random characters. Keyphrases can range from being words to full blown sentences.
 
 A useful tool is https://www.dcode.fr/vigenere-cipher
 

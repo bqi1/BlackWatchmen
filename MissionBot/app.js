@@ -26,7 +26,7 @@ client.on('message',message =>{
     const command = args.shift().toLowerCase();
     try {
         client.commands.get(command).execute(message,args);
-        console.log(message.author.username+command);
+        console.log(message.author.username+" "+command+" "+args);
     } catch (error) {
         message.reply("Invalid command.")
     }

@@ -4,6 +4,10 @@ There are 3 scientists in the institute, Rosenberg Clinic, that have been suspec
 
 Given their background checks, we would like you to single out a connection that any of them might have that connects to human experimentation.
 
+The connection does not have to be shared amongst the scientists.
+
+Send us the official name of the area of interest.
+
 The Archive files are BBNI001, BBNI002, and BBNI003.
 
 When you have the solution, send us the message. We'll be expecting.

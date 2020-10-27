@@ -15,8 +15,12 @@ client.once('ready',() =>{
 
 
 client.on('message',message =>{
-
-    if (message.author.bot) return;
+    
+    if (message.author.bot){
+        message.delete({timeout: 60000})
+            .catch(console.error());
+        return;
+    }
 
     if (message.channel.type === "dm"){
         if (message.content.toLowerCase().includes("joe") && message.content.toLowerCase().includes("brain branzo flaks") && message.content.toLowerCase().includes("vancouver") && message.content.toLowerCase().includes("canucks") && message.content.toLowerCase().includes("bicycling") && message.content.toLowerCase().includes("pretzels") && message.content.toLowerCase().includes("mountain dew") ){
@@ -30,18 +34,20 @@ client.on('message',message =>{
 
         }
 
-    }
+    }else{
+        message.delete({timeout: 60000})
+            .catch(console.error());
+        if (!message.content.startsWith(prefix))return;
 
-    if (!message.content.startsWith(prefix))return;
 
+        const args = message.content.slice(prefix.length).trim().split(/ +/);
+        const command = args.shift().toLowerCase();
+        try {
+            client.commands.get(command).execute(message,args);
 
-    const args = message.content.slice(prefix.length).trim().split(/ +/);
-    const command = args.shift().toLowerCase();
-    try {
-        client.commands.get(command).execute(message,args);
-    } catch (error) {
-        console.log(error);
-        message.reply("Sorry, that's not a valid command! WE LOVE YOU THOuGH.");
+        } catch (error) {
+            message.reply("Sorry, that's not a valid command! WE LOVE YOU THOuGH.");
+        }
     }
     
 });

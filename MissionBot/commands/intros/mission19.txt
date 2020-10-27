@@ -2,7 +2,7 @@ Mission 19: Crack the safe.
 
 We recovered the agent's body in Cooper's cave. The coroners are performing the autopsy, but for now, a note was found in his jacket pocket. We believe it can be used to crack the safe found in his car.
 
-Crack the combination. Additionally, the word Futhark was scrawled on the back of the note.
+Crack the combination. Additionally, the phrase "Futhark Cipher Runes" was scrawled on the back of the note.
 
 The files are BA8E2C1, 9BA82FA, and PEFM294.
 
